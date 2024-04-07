@@ -1,6 +1,6 @@
 FROM tomcat:10-jdk17-openjdk
 
-COPY ./target/*.war /usr/local/tomcat/webapps/Projjet.war
+COPY ./target/Projjet-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/Projjet.war
 
 EXPOSE 8081
 
