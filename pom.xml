@@ -5,9 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>Projjet</artifactId>
+  <artifactId>EmployeManagement</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Projjet</name>
+  <name>EmployeManagement</name>
   <packaging>war</packaging>
 
   <properties>
