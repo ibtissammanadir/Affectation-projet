@@ -1,0 +1,8 @@
+com\example\projjet\Model\Projet.class
+com\example\projjet\Beans\ProjetBean.class
+com\example\projjet\Model\Employee.class
+com\example\projjet\Beans\EmployeeBean.class
+com\example\projjet\Beans\AffectationBean.class
+com\example\projjet\daojpa\dao.class
+com\example\projjet\daojpa\daoimpl.class
+com\example\projjet\HelloServlet.class
